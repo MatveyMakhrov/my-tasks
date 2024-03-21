@@ -3,4 +3,4 @@
 В этом репозитории хранятся программы с курсов, которые были пройдены, а также задачи с codeforces.
 
 ## _Пройденные курсы:_
-1. Введение в программирование [(introduction-to-programming-(C++))](https://github.com/MatveyMakhrov/my-tasks/tree/main/introduction-to-programming-(C%2B%2B))
+1. Введение в программирование (C++)[(introduction-to-programming-(C++))](https://github.com/MatveyMakhrov/my-tasks/tree/main/introduction-to-programming-(C%2B%2B))
