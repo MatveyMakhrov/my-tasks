@@ -4,3 +4,5 @@
 
 ## _Пройденные курсы:_
 1. Введение в программирование (C++) [(introduction-to-programming-(C++))](https://github.com/MatveyMakhrov/my-tasks/tree/main/introduction-to-programming-(C%2B%2B))
+2. Основы рабобы с Git (basics-of-working-with-Git)
+3. Изучайте HTML (learn-HTML)
