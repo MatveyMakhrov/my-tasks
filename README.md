@@ -7,4 +7,5 @@
 2. Основы рабобы с Git (basics-of-working-with-Git)
 3. Изучайте HTML (learn-HTML)
 4. Изучайте CSS (learn-CSS)
-5. Стипендия Тинькофф [(scholarship-tinkoff)](https://github.com/MatveyMakhrov/my-tasks/tree/main/scholarship-tinkoff)
+5. Менеджер проектов (project-manager)
+6. Стипендия Тинькофф [(scholarship-tinkoff)](https://github.com/MatveyMakhrov/my-tasks/tree/main/scholarship-tinkoff)
