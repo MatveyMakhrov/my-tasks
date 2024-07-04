@@ -9,3 +9,4 @@
 4. Изучайте CSS (learn-CSS)
 5. Менеджер проектов (project-manager)
 6. Стипендия Тинькофф [(scholarship-tinkoff)](https://github.com/MatveyMakhrov/my-tasks/tree/main/scholarship-tinkoff)
+7. ОС Astra Linux Special Edition 1.7 для пользователей (os-astra-linux-special-edition-1.7-for-users)
