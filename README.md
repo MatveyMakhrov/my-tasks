@@ -7,6 +7,8 @@
    [Cсылка на курс](https://stepik.org/course/363/info)
 2. Основы программирования на Python [(basics-of-Python-programming)](https://github.com/MatveyMakhrov/my-tasks/tree/main/basics-of-Python-programming) </br>
    [Cсылка на курс](https://stepik.org/course/81846/info)
+3. Python для программистов (Python-for-programmers) </br>
+   [Cсылка на курс](https://www.codecademy.com/enrolled/courses/python-for-programmers)
 4. Основы рабобы с Git (basics-of-working-with-Git) </br>
    [Cсылка на курс](https://practicum.yandex.ru/profile/git-basics)
 5. Изучайте HTML (learn-HTML) </br>
